@@ -1,7 +1,20 @@
 *{ margin: 15px;}
 
-#additional-content {
-    font-size: small;
-    text-align: justify;
-    font-style: italic; 
+.additional-content {
+    font-size: medium;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#Sarah { 
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+}
+
+#John { 
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+[href]:hover { 
+    color: rgb(145, 113, 74);
 }
